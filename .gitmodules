@@ -1,0 +1,3 @@
+[submodule "mtest1"]
+	path = mtest1
+	url = https://github.com/strange2web/test3
